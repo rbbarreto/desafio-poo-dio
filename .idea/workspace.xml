@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7eb63b-fe42-4868-8186-59e4c0641dcd" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="dc7eb63b-fe42-4868-8186-59e4c0641dcd" name="Changes" comment="Finalizando a codificação do bootcamp">
+      <change afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Conteudo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/BootCamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640647710304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Classes de Mentoria e Cursos">
+      <created>1640658791002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640658791002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Classes de Mentoria e Cursos" />
+    <MESSAGE value="Finalizando a codificação do bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando a codificação do bootcamp" />
   </component>
 </project>
